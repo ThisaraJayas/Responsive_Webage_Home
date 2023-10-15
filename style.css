@@ -38,7 +38,7 @@
 }
 li a:hover{
     background: white;
-    transition: 0.5s;
+    transition: 0.6s;
 }
 .navbar a:hover{
     color: black;
